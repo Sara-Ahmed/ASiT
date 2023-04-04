@@ -12,6 +12,9 @@ The finetuning strategy is adopted from [AST](https://github.com/YuanGongND/ast)
 
 Self-supervised pre-trained models using ASiT can be downloaded from [here .. coming soon](https://drive.google.com/drive/folders/)
 
+# Data Preparation
+We mainly employed AudioSet for ASiT pre-training which contains YouTube videos. Please follow [link](https://research.google.com/audioset/download.html) to download and process AudioSet data.
+
 If you use this code for a paper, please cite:
 
 ```
