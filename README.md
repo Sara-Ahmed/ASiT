@@ -1,6 +1,6 @@
 # ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation
 
-![](imgs/ASiT.png)
+![](ASiT.png)
 
 This repository contains the official PyTorch self-supervised pretraining, finetuning, and evaluation codes for 
 [ASiT](https://arxiv.org/abs/2211.13189): Audio Spectrogram vIsion Transformer for General Audio Representation.
